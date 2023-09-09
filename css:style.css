@@ -1,0 +1,175 @@
+.rounded {
+    border-radius: 16px !important;
+    }
+    .v-alert__content {
+    align-self: center;
+    grid-area: content;
+    text-align: center;
+    overflow: hidden;
+    }
+    
+    .v-alert.v-theme--BLUE_THEME.text-Info.v-alert--density-default.v-alert--variant-tonal.mb-3.w-
+    36.h-16.bg-sky-400.opacity-20.\.\.\. {
+    
+    background: linear-gradient(to right, rgb(186 78 193),rgb(251 138 57))!important;
+    }
+    h4 {
+    color: white !important;
+    }
+    .card {
+    border: 4px solid #22c6f8;
+    margin-top: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 0.25rem;
+    background-color: rgb(255 255 255);
+    padding: 1.5rem;
+    text-align: center;
+    }
+    .header {
+    display: flex;
+    flex-direction: column;
+    }
+    .title {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 700;
+    color: #fff
+    }
+    .price {
+    font-size: 3.75rem;
+    line-height: 1;
+    font-weight: 700;
+    color: #fff
+    }
+    .desc {
+    
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.625;
+    color: #FFF;
+    }
+    .lists {
+    margin-bottom: 1.5rem;
+    flex: 1 1 0%;
+    color: rgba(156, 163, 175, 1);
+    }
+    .lists .list {
+    margin-bottom: 0.5rem;
+    display: flex;
+    margin-left: 0.5rem
+    }
+    .lists .list svg {
+    height: 1.5rem;
+    width: 1.5rem;
+    flex-shrink: 0;
+    margin-right: 0.5rem;
+    color: #1eaffb;
+    }
+    .action {
+    text-decoration: none;
+    border: none;
+    outline: none;
+    display: inline-block;
+    border-radius: 15px !important;
+    background-color: #d74aa4 ;
+    background-image: linear-gradient(to right, rgb(46 223 243),rgb(30 175 252))!important;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    color: rgb(255 255 255);
+    }
+    button.v-btn.v-btn--flat.v-theme--BLUE_THEME.v-btn--density-default.v-btn--size-default.v-btn--
+    variant-text.custom-hover-primary.bg-primary.ml-2.login-btn {
+    background: linear-gradient(to right, rgb(0 0 0),rgb(0 159 243))!important;
+    }
+    .v-toolbar__content {
+    background-color: white !important;
+    }
+    .v-container.maxWidth.py-sm-4.py-0 {
+    border-bottom: 3px solid #e54898;
+    background-color: #2a5e73 !important;
+    }
+    
+    .v-container.maxWidth.py-sm-4.py-0 {
+    border-bottom: 3px solid #e14799 !important;
+    border-radius: 0px 0 15px 15px;
+    }
+    span {
+    color: #161320 !important;
+    }
+    h2.text-center {
+    color: #1e4352 !important;
+    }
+    .mazenIMG{
+    margin-bottom: 10px;
+    border-style: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+    img.mazenimg2.w-100 {
+    margin-bottom: 10px !important;
+    }
+    .v-container.maxWidth.py-sm-4.py-0 {
+    border-bottom: 3px solid #3b9ffb !important;
+    background-color: #2a5e73 !important;
+    }
+    
+    img.mazenimg2.w-100 {
+    margin-bottom: 10px !important;
+    border-radius: 15px !important;
+    }
+    
+    .v-toolbar__content {
+    background-color: #2a5e73 !important;
+    }
+    .v-container.maxWidth.py-sm-4.py-0 {
+    border-bottom: 3px solid #3b9ffb !important;
+    background-color: #2a5e73 !important;
+    }
+    
+    .btn-top-home {
+    background: linear-gradient(to right, rgb(8 119 147),rgb(49 85 104))!important;
+    width: -webkit-fill-available;
+    
+    margin-left: 5px;
+    border-radius: 16px;
+    text-align: center;
+    color: rgb(255 255 255);
+    }
+    .btn-top-install {
+    background: linear-gradient(to right, rgb(8 119 147),rgb(49 85 104))!important;
+    width: -webkit-fill-available;
+    margin-right: 5px;
+    border-radius: 16px;
+    text-align: center;
+    color: rgb(255 255 255);
+    }
+    .btn-top-activation {
+    background: linear-gradient(to right, rgb(8 119 147),rgb(49 85 104))!important;
+    width: -webkit-fill-available;
+    margin-top: -2px;
+    margin-bottom: -5px;
+    border-radius: 16px;
+    text-align: center;
+    color: rgb(255 255 255);
+    }
+    .v-container.maxWidth.py-sm-4.py-0 {
+    border-bottom: 3px solid #3b9ffb !important;
+    background-color: #2a5e73 !important;
+    }
+    
+    button.v-btn.v-btn--flat.v-theme--BLUE_THEME.v-btn--density-default.v-btn--size-default.v-btn--
+    variant-text.custom-hover-primary.bg-primary.ml-2.login-btn {
+    background: linear-gradient(to right, rgb(0 0 0),rgb(32 142 201))!important;
+    }
